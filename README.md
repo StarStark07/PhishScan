@@ -1,6 +1,7 @@
 # PhishScan
 
-![Gemini_Generated_Image](https://github.com/StarStark07/PhishScan/assets/112632845/7fe4d4a3-2302-4636-a36a-f1d5666c44be)
+![Gemini_Generated_Image-removebg](https://github.com/StarStark07/PhishScan/assets/112632845/e8ab8d13-816d-49ef-940a-8bf048b06bc8)
+
 
 
 This Python script is a URL scanner tool designed to identify potential security risks in URLs. It checks for indicators such as missing HTTPS protocol, suspicious domains, and keywords commonly associated with phishing attempts.
