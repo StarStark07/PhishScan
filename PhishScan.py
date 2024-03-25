@@ -3,11 +3,6 @@ import requests
 from urllib.parse import urlparse
 from colorama import Fore
 
-import colorama
-
-print("Colorama version:", colorama.__version__)
-
-
 red = Fore.RED
 yellow = Fore.YELLOW
 reset = Fore.RESET
