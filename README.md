@@ -1,6 +1,7 @@
 # PhishScan
 
-![Gemini_Generated_Image-removebg](https://github.com/StarStark07/PhishScan/assets/112632845/e8ab8d13-816d-49ef-940a-8bf048b06bc8)
+![Gemini_Generated_Image-removebg](https://github.com/StarStark07/PhishScan/assets/112632845/9883fd61-23ef-414b-8a9d-67a5ed5f53cb)
+
 
 
 
