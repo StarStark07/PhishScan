@@ -1,4 +1,4 @@
-# URL Scanner
+# PhishScan
 
 This Python script is a URL scanner tool designed to identify potential security risks in URLs. It checks for indicators such as missing HTTPS protocol, suspicious domains, and keywords commonly associated with phishing attempts.
 
