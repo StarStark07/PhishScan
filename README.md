@@ -1,26 +1,40 @@
-🔍 URL Scanner
+# URL Scanner
 
-This Python script is designed to scan URLs for potential security risks, such as phishing attempts and insecure connections. It checks for indicators like missing HTTPS protocol, suspicious domains, and keywords commonly associated with phishing.
+This Python script is a URL scanner tool designed to identify potential security risks in URLs. It checks for indicators such as missing HTTPS protocol, suspicious domains, and keywords commonly associated with phishing attempts.
 
-🚀 Features:
+## Features
 - Validates URLs for HTTPS usage.
 - Detects suspicious domains.
 - Identifies common phishing keywords in URLs.
 - Provides color-highlighted output using the Colorama library.
 - User-friendly interface for input and analysis.
 
-🔒 How it Works:
+## How it Works
 1. Prompt the user to input a URL to scan.
 2. Analyze the URL for security vulnerabilities.
 3. Display warning messages for detected risks.
 4. Allow users to scan another URL or exit the program.
 
-👨‍💻 Usage:
-1. Clone the repository: `git clone https://github.com/StarStark07/URL-Scanner.git`
-2. Run the script: `python url_scanner.py`
-3. Enter the URL to scan when prompted.
-4. Review the analysis results and warnings provided.
-5. Choose to scan another URL or exit the program.
+## Usage
+```
+git clone https://www.github.com/StarStark07/PhishScan
+```
+```
+cd PhishScan
+```
+```
+pip install -r requirements.txt
+```
+```
+python PhishScan.py
+```
+## Author
 
-🔗 GitHub Repository: [URL-Scanner](https://github.com/StarStark07/URL-Scanner)
-🛠️ Made with ❤️ by Piyush Kumar
+- Developed by Piyush Kumar ([GitHub: StarStark07](https://github.com/StarStark07))
+
+## GitHub Repository
+
+Visit [GitHub](https://github.com/StarStark07) to explore more projects and contributions by the author.
+
+**Note:** This network analyzer is intended for educational and informational purposes only. It can be used to enhance understanding of network security concepts and practices.
+
